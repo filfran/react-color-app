@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "chroma-js": "^2.1.2",
+    "rc-slider": "^9.7.2",
     "react-copy-to-clipboard": "^5.0.3"
   }
 }
