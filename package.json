@@ -40,6 +40,7 @@
     "@material-ui/icons": "^4.11.2",
     "chroma-js": "^2.1.2",
     "rc-slider": "^9.7.2",
-    "react-copy-to-clipboard": "^5.0.3"
+    "react-copy-to-clipboard": "^5.0.3",
+    "react-router-dom": "^5.2.0"
   }
 }
